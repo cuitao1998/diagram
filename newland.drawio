@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2022-03-03T02:14:53.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" version="16.6.4" etag="PQKLN7tvDJ1uY9dzb8Dz" type="github"><diagram id="VT9u9edFvtR7_qxlZmXA">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-03T03:11:40.585Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.71 Safari/537.36" etag="r15Chyn_VVCzOhyFtHyX" version="16.6.4" type="github">
+  <diagram id="VT9u9edFvtR7_qxlZmXA" name="第 1 页">
+    <mxGraphModel dx="719" dy="291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Kg3LEh1uZiRcxEr5KTyR-14" value="QrySummaryInfoReq" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" collapsed="1" parent="1">
+          <mxGeometry x="40" y="20" width="160" height="26" as="geometry">
+            <mxRectangle x="70" y="30" width="160" height="206" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Kg3LEh1uZiRcxEr5KTyR-15" value="private String crmId;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="Kg3LEh1uZiRcxEr5KTyR-14">
+          <mxGeometry y="26" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg3LEh1uZiRcxEr5KTyR-16" value="private String region;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="Kg3LEh1uZiRcxEr5KTyR-14">
+          <mxGeometry y="56" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg3LEh1uZiRcxEr5KTyR-17" value="private String msisdn;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="Kg3LEh1uZiRcxEr5KTyR-14">
+          <mxGeometry y="86" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg3LEh1uZiRcxEr5KTyR-21" value="private String orgId;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="Kg3LEh1uZiRcxEr5KTyR-14">
+          <mxGeometry y="116" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg3LEh1uZiRcxEr5KTyR-23" value="private String status;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="Kg3LEh1uZiRcxEr5KTyR-14">
+          <mxGeometry y="146" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Kg3LEh1uZiRcxEr5KTyR-22" value="private String startDate;" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="Kg3LEh1uZiRcxEr5KTyR-14">
+          <mxGeometry y="176" width="160" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
