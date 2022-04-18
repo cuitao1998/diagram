@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-18T14:41:02.196Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="rNKfDt9yu36wRECMBPNx" version="17.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-18T15:17:55.658Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="Xh6CzVK8YGbKaW5_Cgyb" version="17.4.5" type="github">
   <diagram id="d1_pyNrZgF3xTE_ZMnq0" name="第 1 页">
     <mxGraphModel dx="644" dy="585" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -335,6 +335,37 @@
         </mxCell>
         <mxCell id="PFKwkX6DjYFr7Fsh1uDh-78" value="&lt;span style=&quot;font-size: 16px&quot;&gt;部门层级划分&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="505.25" y="1493" width="112" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PFKwkX6DjYFr7Fsh1uDh-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PFKwkX6DjYFr7Fsh1uDh-83" target="PFKwkX6DjYFr7Fsh1uDh-84">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="423.25" y="1685" />
+              <mxPoint x="287.25" y="1685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFKwkX6DjYFr7Fsh1uDh-81" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PFKwkX6DjYFr7Fsh1uDh-83" target="PFKwkX6DjYFr7Fsh1uDh-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PFKwkX6DjYFr7Fsh1uDh-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="PFKwkX6DjYFr7Fsh1uDh-83" target="PFKwkX6DjYFr7Fsh1uDh-86">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="423.25" y="1685" />
+              <mxPoint x="558.25" y="1685" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PFKwkX6DjYFr7Fsh1uDh-83" value="&lt;span style=&quot;font-size: 16px&quot;&gt;权限管理&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="375.25" y="1624" width="95" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PFKwkX6DjYFr7Fsh1uDh-84" value="&lt;span style=&quot;font-size: 16px&quot;&gt;权限列表查看&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="231" y="1719" width="112.5" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PFKwkX6DjYFr7Fsh1uDh-85" value="&lt;span style=&quot;font-size: 16px&quot;&gt;权限的增删改&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="370.75" y="1719" width="104" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="PFKwkX6DjYFr7Fsh1uDh-86" value="&lt;span style=&quot;font-size: 16px&quot;&gt;权限点的管理&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="502.25" y="1719" width="112" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
