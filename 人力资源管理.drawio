@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T15:03:50.174Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="EzetnB6s_PiwnI1iBQ-T" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T15:06:14.440Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="ki4LIiP0d255GkZwor6e" version="17.4.6" type="github">
   <diagram id="d1_pyNrZgF3xTE_ZMnq0" name="第 1 页">
-    <mxGraphModel dx="2405" dy="526" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2972" dy="774" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1962,6 +1962,96 @@
         </mxCell>
         <mxCell id="nKN-CCrGYcVfSLCRCd3G-245" value="社保信息报表导出" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="204" y="3344" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-247" value="员工考勤信息列表查看" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="663" y="3107" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-248" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-254" target="nKN-CCrGYcVfSLCRCd3G-247">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-249" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-254" target="nKN-CCrGYcVfSLCRCd3G-255">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-250" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-254" target="nKN-CCrGYcVfSLCRCd3G-256">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-251" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-254" target="nKN-CCrGYcVfSLCRCd3G-257">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-252" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-254" target="nKN-CCrGYcVfSLCRCd3G-258">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-253" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-254" target="nKN-CCrGYcVfSLCRCd3G-259">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-261" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-254" target="nKN-CCrGYcVfSLCRCd3G-260">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-254" value="人事管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;" vertex="1" parent="1">
+          <mxGeometry x="409" y="3265" width="30" height="49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-255" value="考勤信息报表查看" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="666" y="3192" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-256" value="考勤信息报表归档" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="671" y="3267" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-257" value="考勤信息报表归档历史查看" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="611" y="3395" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-258" value="考勤&lt;font face=&quot;helvetica&quot;&gt;社保信息设置&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="572" y="3467" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-259" value="考勤信息报表导出" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="683" y="3336" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-260" value="员工考勤规制指定" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="670" y="3016" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-262" value="员工考勤信息列表查看" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1123" y="3113" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-263" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-270" target="nKN-CCrGYcVfSLCRCd3G-262">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-264" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-270" target="nKN-CCrGYcVfSLCRCd3G-271">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-265" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-270" target="nKN-CCrGYcVfSLCRCd3G-272">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-266" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-270" target="nKN-CCrGYcVfSLCRCd3G-273">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-267" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-270" target="nKN-CCrGYcVfSLCRCd3G-274">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-268" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-270" target="nKN-CCrGYcVfSLCRCd3G-275">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-269" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=18;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-270" target="nKN-CCrGYcVfSLCRCd3G-276">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-270" value="人事管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;align=center;" vertex="1" parent="1">
+          <mxGeometry x="869" y="3271" width="30" height="49.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-271" value="考勤信息报表查看" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="3198" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-272" value="考勤信息报表归档" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1131" y="3273" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-273" value="考勤信息报表归档历史查看" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1071" y="3401" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-274" value="考勤&lt;font face=&quot;helvetica&quot;&gt;社保信息设置&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1032" y="3473" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-275" value="考勤信息报表导出" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1143" y="3342" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-276" value="员工考勤规制指定" style="ellipse;whiteSpace=wrap;html=1;verticalAlign=middle;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="3022" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
