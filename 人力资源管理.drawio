@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-04-23T15:11:46.928Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="D3zYDXDKxkDcdqMO5UTY" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-23T16:27:09.355Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="c19arW_Q8u1T9s8PuEQd" version="17.4.6" type="github">
   <diagram id="d1_pyNrZgF3xTE_ZMnq0" name="第 1 页">
-    <mxGraphModel dx="2706" dy="658" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2061" dy="376" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2130,23 +2130,15 @@
         <mxCell id="nKN-CCrGYcVfSLCRCd3G-296" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-303" target="nKN-CCrGYcVfSLCRCd3G-310">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="781" y="2772" />
-              <mxPoint x="600" y="2772" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nKN-CCrGYcVfSLCRCd3G-297" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-303" target="nKN-CCrGYcVfSLCRCd3G-306">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="781" y="2772" />
-              <mxPoint x="662" y="2772" />
+              <mxPoint x="810" y="2772" />
+              <mxPoint x="668" y="2772" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nKN-CCrGYcVfSLCRCd3G-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-303" target="nKN-CCrGYcVfSLCRCd3G-304">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="781" y="2772" />
+              <mxPoint x="810" y="2772" />
               <mxPoint x="723" y="2772" />
             </Array>
           </mxGeometry>
@@ -2154,15 +2146,15 @@
         <mxCell id="nKN-CCrGYcVfSLCRCd3G-299" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-303" target="nKN-CCrGYcVfSLCRCd3G-305">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="781" y="2760" />
-              <mxPoint x="781" y="2760" />
+              <mxPoint x="810" y="2772" />
+              <mxPoint x="781" y="2772" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nKN-CCrGYcVfSLCRCd3G-300" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-303" target="nKN-CCrGYcVfSLCRCd3G-307">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="781" y="2772" />
+              <mxPoint x="810" y="2772" />
               <mxPoint x="840" y="2772" />
             </Array>
           </mxGeometry>
@@ -2170,7 +2162,7 @@
         <mxCell id="nKN-CCrGYcVfSLCRCd3G-301" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-303" target="nKN-CCrGYcVfSLCRCd3G-308">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="781" y="2772" />
+              <mxPoint x="810" y="2772" />
               <mxPoint x="907" y="2772" />
             </Array>
           </mxGeometry>
@@ -2178,34 +2170,31 @@
         <mxCell id="nKN-CCrGYcVfSLCRCd3G-302" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nKN-CCrGYcVfSLCRCd3G-303" target="nKN-CCrGYcVfSLCRCd3G-309">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="781" y="2772" />
+              <mxPoint x="810" y="2772" />
               <mxPoint x="972" y="2772" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nKN-CCrGYcVfSLCRCd3G-303" value="&lt;span style=&quot;font-size: 16px&quot;&gt;考勤管理&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="733" y="2727" width="95" height="23" as="geometry" />
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-303" value="&lt;span style=&quot;font-size: 16px&quot;&gt;薪资管理&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="758" y="2727" width="95" height="23" as="geometry" />
         </mxCell>
-        <mxCell id="nKN-CCrGYcVfSLCRCd3G-304" value="&lt;span style=&quot;font-size: 16px&quot;&gt;考勤信息报表查看&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-304" value="&lt;span style=&quot;font-size: 16px&quot;&gt;薪资信息报表查看&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="708.25" y="2789" width="28.5" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="nKN-CCrGYcVfSLCRCd3G-305" value="&lt;span style=&quot;font-size: 16px&quot;&gt;考勤信息报表归档&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-305" value="&lt;span style=&quot;font-size: 16px&quot;&gt;薪资信息报表归档&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="766.25" y="2789" width="29" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="nKN-CCrGYcVfSLCRCd3G-306" value="&lt;span style=&quot;font-size: 16px&quot;&gt;考勤规则指定&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="647.25" y="2789" width="28.5" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="nKN-CCrGYcVfSLCRCd3G-307" value="&lt;span style=&quot;font-size: 16px&quot;&gt;考勤信息报表导出&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-307" value="&lt;span style=&quot;font-size: 16px&quot;&gt;薪资信息报表导出&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="825.5" y="2789" width="29" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="nKN-CCrGYcVfSLCRCd3G-308" value="&lt;span style=&quot;font-size: 16px&quot;&gt;考勤信息报表归档历史查看&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-308" value="&lt;span style=&quot;font-size: 16px&quot;&gt;薪资信息报表归档历史查看&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="889" y="2789" width="38.75" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="nKN-CCrGYcVfSLCRCd3G-309" value="&lt;span style=&quot;font-size: 16px&quot;&gt;考勤信息修改&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-309" value="&lt;span style=&quot;font-size: 16px&quot;&gt;薪资信息修改&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="955.25" y="2789" width="33.5" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="nKN-CCrGYcVfSLCRCd3G-310" value="&lt;span style=&quot;font-size: 16px&quot;&gt;考勤信息列表查看&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="586" y="2789" width="28.5" height="190" as="geometry" />
+        <mxCell id="nKN-CCrGYcVfSLCRCd3G-310" value="&lt;span style=&quot;font-size: 16px&quot;&gt;薪资信息列表查看&lt;br&gt;&lt;/span&gt;" style="whiteSpace=wrap;html=1;hachureGap=4;fillColor=#eeeeee;strokeColor=#36393d;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="654" y="2791" width="28.5" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
