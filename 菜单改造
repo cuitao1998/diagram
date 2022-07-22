@@ -1,1 +1,115 @@
-<mxfile host="app.diagrams.net" modified="2022-07-20T04:34:51.693Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" version="20.1.2" etag="zFGcmQ3Zpd1f6Nlg6pWl" type="github"><diagram id="S7Df5uEqCxx7tSCgM5D0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-07-22T02:54:18.235Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="j1AL4pRObplXJa9l_cKc" version="20.1.2" type="github">
+  <diagram id="S7Df5uEqCxx7tSCgM5D0" name="第 1 页">
+    <mxGraphModel dx="1511" dy="926" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07iD89Z6-SRG8HP5ZRgq-1" target="07iD89Z6-SRG8HP5ZRgq-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-1" value="关联/取消菜单关联" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="360" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07iD89Z6-SRG8HP5ZRgq-3" target="07iD89Z6-SRG8HP5ZRgq-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-10" value="不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="07iD89Z6-SRG8HP5ZRgq-9">
+          <mxGeometry x="0.2711" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="-5" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07iD89Z6-SRG8HP5ZRgq-3" target="07iD89Z6-SRG8HP5ZRgq-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-21" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="07iD89Z6-SRG8HP5ZRgq-20">
+          <mxGeometry x="-0.2523" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-3" value="库中是否存在关联关系记录" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07iD89Z6-SRG8HP5ZRgq-8" target="07iD89Z6-SRG8HP5ZRgq-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-15" value="不存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="07iD89Z6-SRG8HP5ZRgq-14">
+          <mxGeometry x="-0.2333" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07iD89Z6-SRG8HP5ZRgq-8" target="07iD89Z6-SRG8HP5ZRgq-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-18" value="存在" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="07iD89Z6-SRG8HP5ZRgq-17">
+          <mxGeometry x="-0.3022" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-8" value="查询当前菜单与未关联菜单是否存在关联关系" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="240" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-11" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="220" as="sourcePoint" />
+            <mxPoint x="250" y="200" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="330" y="240" />
+              <mxPoint x="280" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-12" value="库中不存在关联记录（当前菜单与父级菜单）默认为新增关联关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="130" y="180" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-13" value="直接新增关联关系" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-16" value="将当前菜单关联的父级菜单更改为传入的父级菜单" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="245" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07iD89Z6-SRG8HP5ZRgq-19" target="07iD89Z6-SRG8HP5ZRgq-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-24" value="为失效" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="07iD89Z6-SRG8HP5ZRgq-23">
+          <mxGeometry x="-0.2063" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-19" value="库中存在关联关系记录状态为失效" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07iD89Z6-SRG8HP5ZRgq-22" target="07iD89Z6-SRG8HP5ZRgq-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-34" value="失败" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="07iD89Z6-SRG8HP5ZRgq-33">
+          <mxGeometry x="-0.5204" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07iD89Z6-SRG8HP5ZRgq-22" target="07iD89Z6-SRG8HP5ZRgq-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-37" value="成功" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="07iD89Z6-SRG8HP5ZRgq-36">
+          <mxGeometry x="0.2222" y="-1" relative="1" as="geometry">
+            <mxPoint x="-7" y="-1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-22" value="更新菜单的关联状态" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-32" value="返回“菜单关系更新失败”" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="07iD89Z6-SRG8HP5ZRgq-35" target="07iD89Z6-SRG8HP5ZRgq-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-35" value="是否为关联" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="940" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="07iD89Z6-SRG8HP5ZRgq-38" value="是否为关联" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="130" width="120" height="70" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
